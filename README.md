@@ -10,15 +10,15 @@ Unofficial PyTorch Implementation of Robust Classification with Convolutional Pr
 
 1. Run main.py to train the model.
 2. Run extract_features.py to extract the hidden layer features
-3. Run visualize_scatter.py to generate the scatter_plots
+3. Run visualize_scatter.py to generate the scatter plot
 
 
-Features with DCE loss 
+Features with DCE loss: 
 
 <img src = "mnist_dce_loss.png"  width ="400"> 
 
 
-Features with GCPL
+Features with GCPL:
 
 <img src = "mnist_GCPL.png"  width ="400">
 
