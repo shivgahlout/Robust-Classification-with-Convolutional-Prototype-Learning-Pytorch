@@ -15,4 +15,12 @@ Unofficial PyTorch Implementation of Robust Classification with Convolutional Pr
 
 Features with DCE loss 
 
+<img src = "mnist_dce_loss.png"  width ="400"> 
+
+
+Features with GCPL
+
+<img src = "mnist_GCPL.png"  width ="400">
+
+
 
